@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Drawing_3D_Desk_Buddies_Museum",
+"productName": "sample",
 "productVersion": "0.1",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
